@@ -1,0 +1,28 @@
+
+#title {
+  background-color: #ff4c68;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+h1 {
+  font-weight: 900;
+  line-height: 1.5;
+}
+.ofass {
+   transform: rotate(30deg);
+}
+
+h3 {
+  font-size: 1.5rem;
+  line-height: 1.5;
+
+}
+.shat {
+  color: #8f8f8f;
+}
+i {
+  color: #ef8172;
+}
